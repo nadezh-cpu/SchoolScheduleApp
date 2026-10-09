@@ -19,3 +19,5 @@ for row in cursor.fetchall():
 
 conn.close()
 print("\nГотово! Теперь попробуй войти с логином 'teacher' и паролем 'admin'")
+# Скрипт добавления учителя английского языка
+# Ветка: second
